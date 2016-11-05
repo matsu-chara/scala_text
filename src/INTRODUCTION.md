@@ -28,6 +28,12 @@
 でなければ理解できないといったことはありません。ただし、本資料は1つ以上のプログラミング言語でアプリケーションを
 作れることを最低限の前提にしていますので、その点留意ください。
 
+## 対応バージョンについて
+
+このテキストはScala2.12を基準にしています。
+なおScala2.11時代のテキストは https://github.com/dwango/scala_text/tree/scala_2.11_latest_build からHTMLとしてダウンロードできます。
+
+
 ## フィードバック
 * 誤字・脱字の指摘や修正、および明確な技術的誤りの指摘や修正：
   * [scala_text](https://github.com/dwango/scala_text)のissue欄およびpull requestへ
